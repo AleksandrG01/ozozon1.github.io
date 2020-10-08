@@ -977,7 +977,7 @@ select#type_of_cleaning:focus {
   width: 10px;
   height: 10px;
   display: block;
-  background-image: url(/img/check.png);
+  background-image: url(https://raw.githubusercontent.com/AleksandrG01/ozozon1.github.io/main/img/check.png);
   position: absolute;
   top: 4px;
   left: -25px;
@@ -1001,7 +1001,7 @@ select#type_of_cleaning:focus {
   width: 10px;
   height: 10px;
   display: block;
-  background-image: url(/img/plas.png);
+  background-image: url(https://raw.githubusercontent.com/AleksandrG01/ozozon1.github.io/main/img/plas.png);
   position: absolute;
   top: 4px;
   left: -25px;
@@ -1438,7 +1438,7 @@ button.slick-next.slick-arrow:after {
       -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   left: 50%;
-  background: url(/img/arrow_right.png) 0 0/100% no-repeat;
+  background: url(https://raw.githubusercontent.com/AleksandrG01/ozozon1.github.io/main/img/arrow_right.png) 0 0/100% no-repeat;
 }
 
 button.slick-prev.slick-arrow {
@@ -1457,7 +1457,7 @@ button.slick-prev.slick-arrow:after {
       -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   left: 50%;
-  background: url(/img/arrowleft.png) 0 0/100% no-repeat;
+  background: url(https://raw.githubusercontent.com/AleksandrG01/ozozon1.github.io/main/img/arrowleft.png) 0 0/100% no-repeat;
 }
 
 .wrapper__phone {
@@ -1486,7 +1486,7 @@ button.slick-prev.slick-arrow:after {
       -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   left: 50%;
-  background: url(/img/Phone.png) 0 0/100% no-repeat;
+  background: url(https://raw.githubusercontent.com/AleksandrG01/ozozon1.github.io/main/img/Phone.png) 0 0/100% no-repeat;
 }
 
 @media (max-width: 1475px) {
@@ -1605,7 +1605,7 @@ button.slick-prev.slick-arrow:after {
   .menu__lb li a:before {
     content: '';
     width: 31px;
-    background: url(../img/Groupцу.png) 0 0 no-repeat;
+    background: url(..https://raw.githubusercontent.com/AleksandrG01/ozozon1.github.io/main/img/Groupцу.png) 0 0 no-repeat;
     position: absolute;
     left: -57px;
     height: 30px;
@@ -1988,17 +1988,17 @@ button.slick-prev.slick-arrow:after {
   }
 }
 
-.webp .types__block-ul li:before{ background-image: url(/img/check.webp); }
+.webp .types__block-ul li:before{ background-image: url(https://raw.githubusercontent.com/AleksandrG01/ozozon1.github.io/main/img/check.webp); }
 
-.webp .types__block-ul-pluss li:before{ background-image: url(/img/plas.webp); }
+.webp .types__block-ul-pluss li:before{ background-image: url(https://raw.githubusercontent.com/AleksandrG01/ozozon1.github.io/main/img/plas.webp); }
 
-.webp button.slick-next.slick-arrow:after{ background: url(/img/arrow_right.webp) 0 0/100% no-repeat; }
+.webp button.slick-next.slick-arrow:after{ background: url(https://raw.githubusercontent.com/AleksandrG01/ozozon1.github.io/main/img/arrow_right.webp) 0 0/100% no-repeat; }
 
-.webp button.slick-prev.slick-arrow:after{ background: url(/img/arrowleft.webp) 0 0/100% no-repeat; }
+.webp button.slick-prev.slick-arrow:after{ background: url(https://raw.githubusercontent.com/AleksandrG01/ozozon1.github.io/main/img/arrowleft.webp) 0 0/100% no-repeat; }
 
-.webp .wrapper__phone a:after{ background: url(/img/Phone.webp) 0 0/100% no-repeat; }
+.webp .wrapper__phone a:after{ background: url(https://raw.githubusercontent.com/AleksandrG01/ozozon1.github.io/main/img/Phone.webp) 0 0/100% no-repeat; }
 
 @media (max-width: 1145px){
 
-  .webp .menu__lb li a:before{ background: url(../img/Groupцу.webp) 0 0 no-repeat; }
+  .webp .menu__lb li a:before{ background: url(https://raw.githubusercontent.com/AleksandrG01/ozozon1.github.io/main/img/Groupцу.webp) 0 0 no-repeat; }
 }
